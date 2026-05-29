@@ -1,0 +1,2 @@
+trafilatura>=2.0,<3
+docling>=2.70,<3
