@@ -1,5 +1,9 @@
 # unstructured-data-conversion-code-sample
 
+**Author:** Judah Axelrod | Urban Institute | jaxelrod@urban.org
+
+---
+
 Convert HTML pages and PDFs to clean Markdown for RAG / knowledge-base ingestion.
 
 - HTML → Markdown via [trafilatura](https://trafilatura.readthedocs.io/)
